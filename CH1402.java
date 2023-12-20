@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class UpperCaseConverter {
+public class CH1402{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
